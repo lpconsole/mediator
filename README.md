@@ -13,21 +13,6 @@ Reklamsiz TV ve radyo oynatici. Android TV ve kumanda kullanimi icin tasarlandi;
 - Uygulama ici guncelleme kontrolu icin manifest tabanli sistem hazirdir.
 - Reklam, hesap, takip ve analitik yoktur.
 
-## Test APK
-
-Debug APK:
-
-```text
-app/build/outputs/apk/debug/app-debug.apk
-```
-
-Yerel derleme:
-
-```powershell
-$env:JAVA_HOME='C:\Program Files\Eclipse Adoptium\jdk-17.0.2'
-cmd /c gradlew.bat assembleDebug --console=plain
-```
-
 ## Guncelleme Sistemi
 
 Uygulama `update.json` formatinda bir manifest okur:
