@@ -25,10 +25,10 @@
 	"name": "Start tv",
 	"country": "TR",
 	"logo": "https://upload.wikimedia.org/wikipedia/tr/9/92/Star_TV_.png",
-	"website": "https://www.startv.com.tr/"
+	"website": "https://www.startv.com.tr/",
 	"categories": ["genel"],
 	"streams": [
-      {"url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8","title": "Star Tv","quality": "HD"},
+      {"url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8","title": "Star Tv","quality": "HD"}
 	]
   },
   
@@ -37,10 +37,10 @@
 	"name": "Now tv",
 	"country": "TR",
 	"logo": "https://tpsbayxekmes.merlincdn.net/img/logos/logo.svg",
-	"website": "https://www.nowtv.com.tr/"
+	"website": "https://www.nowtv.com.tr/",
 	"categories": ["genel"],
 	"streams": [
-      {"url": "https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8","title": "Now Tv","quality": "HD"},
+      {"url": "https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8","title": "Now Tv","quality": "HD"}
 	]
   }, 
   
@@ -49,10 +49,10 @@
 	"name": "Beyaz tv",
 	"country": "TR",
 	"logo": "https://beyaztv.com.tr/images/logo.png",
-	"website": "https://beyaztv.com.tr"
+	"website": "https://beyaztv.com.tr",
 	"categories": ["genel"],
 	"streams": [
-      {"url": "https://streams.uzunmuhalefet.com/stream/710fb148-7b3d-4ca2-b6c2-743097885a45.m3u8","title": "Beyaz Tv","quality": "HD"},
+      {"url": "https://streams.uzunmuhalefet.com/stream/710fb148-7b3d-4ca2-b6c2-743097885a45.m3u8","title": "Beyaz Tv","quality": "HD"}
 	]
   },  
   
@@ -61,10 +61,10 @@
 	"name": "Arma tv",
 	"country": "TR",
 	"logo": "https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png",
-	"website": "https://tvsms.club"
+	"website": "https://tvsms.club",
 	"categories": ["genel"],
 	"streams": [
-      {"url": "https://streams.uzunmuhalefet.com/stream/0afd5000-a7b7-4824-922d-da22d60daca2.m3u8","title": ":Arma Tv","quality": "SD"},
+      {"url": "https://streams.uzunmuhalefet.com/stream/0afd5000-a7b7-4824-922d-da22d60daca2.m3u8","title": ":Arma Tv","quality": "SD"}
 	]
   },
   
