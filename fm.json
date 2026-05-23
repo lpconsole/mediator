@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ext-fm-ornek-pop",
+    "name": "Ornek Pop Radyo",
+    "country": "TR",
+    "logo": "https://example.com/logos/ornek-pop-radyo.png",
+    "categories": ["music", "pop"],
+    "streams": [
+      {
+        "url": "https://example.com/radio/ornek-pop-128.mp3",
+        "quality": "128 kbps",
+        "label": "Ana yayin"
+      },
+      {
+        "url": "https://example.com/radio/ornek-pop-64.mp3",
+        "quality": "64 kbps",
+        "label": "Dusuk veri"
+      }
+    ]
+  },
+  {
+    "id": "ext-fm-ornek-haber",
+    "name": "Ornek Haber Radyo",
+    "country": "TR",
+    "logo": "https://example.com/logos/ornek-haber-radyo.png",
+    "category": "news",
+    "url": "https://example.com/radio/ornek-haber.mp3"
+  }
+]

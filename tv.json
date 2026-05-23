@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ext:tv:show-tv",
+    "name": "Show Tv",
+    "country": "TR",
+    "logo": "https://i.ibb.co/Rv0rWhZ/show.png",
+    "website": "https://www.showtv.com.tr",
+    "categories": ["genel"],
+    "streams": [
+      {
+        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8",
+        "title": "Show Tv",
+        "quality": "HD"
+      }
+    ]
+  },
+  {
+    "id": "ext:tv:bein-sports-news",
+    "name": "beIN SPORTS Haber",
+    "country": "GR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnkvHERGkmIOYhi4l_aDt0ZGO9luK5yGXp4A&s",
+    "website": "https://beinsports.com.tr/",
+    "categories": ["spor"],
+    "streams": [
+      {
+        "url": "https://cdn505.canlitv.me/beinsporthaber.m3u8?tkn=1WDQmQL1pGJRx5rC46_flw&tms=1777350209&hst=www.canlitv.me&ip=188.119.55.234&utkn=673b5490ac46eeeaa00814b14473aff2&ch=beinsportshaber-hd",
+        "title": "beIN SPORTS Haber",
+        "quality": "HD"
+      }
+    ]
+  }
+]
