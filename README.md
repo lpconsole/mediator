@@ -1,4 +1,8 @@
-# mediator
+<p align="center">
+  <a href="https://github.com/lpconsole/lp-music/releases"><img src="https://img.shields.io/badge/Version-0.2.9-blue.svg" alt="Version"></a>
+    <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform"></a>
+    <a href="#"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg" alt="License"></a>
+</p>
 
 Reklamsiz TV ve radyo oynatici. Android TV ve kumanda kullanimi icin tasarlandi; WebView degildir, native Android uygulamasidir.
 
@@ -16,15 +20,6 @@ Reklamsiz TV ve radyo oynatici. Android TV ve kumanda kullanimi icin tasarlandi;
 ## Guncelleme Sistemi
 
 Uygulama `update.json` formatinda bir manifest okur:
-
-```json
-{
-  "versionCode": 7,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/lpconsole/mediator/releases/latest/download/mediator-v0.2.1.apk",
-  "notes": "Yeni surum"
-}
-```
 
 GitHub repo acildiktan sonra en pratik yol:
 
