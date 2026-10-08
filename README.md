@@ -4,7 +4,7 @@
     <a href="#"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg" alt="License"></a>
 </p>
 
-## Ozellikler
+## Özellikler
 
 - IPTV kanallari `iptv-org` verilerinden yuklenir.
 - Radyo kanallari Radio Browser API uzerinden yuklenir.
