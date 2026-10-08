@@ -4,8 +4,6 @@
     <a href="#"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg" alt="License"></a>
 </p>
 
-Reklamsiz TV ve radyo oynatici. Android TV ve kumanda kullanimi icin tasarlandi; WebView degildir, native Android uygulamasidir.
-
 ## Ozellikler
 
 - IPTV kanallari `iptv-org` verilerinden yuklenir.
