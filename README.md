@@ -15,19 +15,9 @@
 - Uygulama ici guncelleme kontrolu icin manifest tabanli sistem hazirdir.
 - Reklam, hesap, takip ve analitik yoktur.
 
-## Guncelleme Sistemi
+### 📥 En Son Sürümü İndir (Latest Release)
 
-Uygulama `update.json` formatinda bir manifest okur:
-
-GitHub repo acildiktan sonra en pratik yol:
-
-- APK dosyasini GitHub Releases'a yuklemek.
-- `update.json` dosyasini ayni release asset'i olarak yayinlamak.
-- Uygulamadaki update URL'si `https://github.com/lpconsole/mediator/releases/latest/download/update.json` adresini okur.
-
-indir -> [https://github.com/lpconsole/mediator/releases/download/latest/app-release.apk
-](https://github.com/lpconsole/mediator/releases/latest/download/app-release.apk)
-
+[![En Son Sürümü İndir](https://img.shields.io/github/v/release/lpconsole/mediator?style=for-the-badge&logo=android&logoColor=black&color=00E676&label=%C4%B0ndir%20(APK))](https://github.com/lpconsole/mediator/releases/latest/download/app-release.apk)
 Android guncelleme icin tum surumler ayni keystore ile imzalanmalidir.
 
 ## Kaynaklar
