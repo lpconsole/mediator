@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/lpconsole/lp-music/releases"><img src="https://img.shields.io/badge/Version-0.2.9-blue.svg" alt="Version"></a>
+  <a href="https://github.com/lpconsole/lp-music/releases"><img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"></a>
     <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform"></a>
     <a href="#"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg" alt="License"></a>
 </p>
