@@ -40,7 +40,7 @@ This repository hosts official **Android APK releases** for users who want a nat
 
 ## Download & Installation (Android APK)
 
-1. Go to the **[Releases](https://github.com/lpconsole/mediator-android/releases/latest)** page.
+1. Go to the **[Releases](https://github.com/lpconsole/mediator/releases/latest)** page.
 2. Download the latest `MediaTor-vX.X.X.apk` file to your Android device.
 3. Open the downloaded file and allow installation from unknown sources if prompted.
 4. Launch **MediaTor** and sign in or create a free account.
