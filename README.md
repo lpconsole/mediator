@@ -7,10 +7,10 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-8%20Languages-E11D48?style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/lpconsole/mediator-android?style=for-the-badge&color=0EA5E9)
-![Downloads](https://img.shields.io/github/downloads/lpconsole/mediator-android/total?style=for-the-badge&color=10B981)
+![Release](https://img.shields.io/github/v/release/lpconsole/mediator?style=for-the-badge&color=0EA5E9)
+![Downloads](https://img.shields.io/github/downloads/lpconsole/mediator/total?style=for-the-badge&color=10B981)
 
-[Download Latest APK](https://github.com/lpconsole/mediator-android/releases/latest) •
+[Download Latest APK](https://github.com/lpconsole/mediator/releases/latest) •
 [Live Web Platform](https://mediator.com.tr) •
 [Editorial Guidelines](https://mediator.com.tr/editorial) •
 [Support](https://mediator.com.tr/support)
