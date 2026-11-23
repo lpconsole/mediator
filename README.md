@@ -7,13 +7,13 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-8%20Languages-E11D48?style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/KULLANICI_ADINIZ/mediator-android?style=for-the-badge&color=0EA5E9)
-![Downloads](https://img.shields.io/github/downloads/KULLANICI_ADINIZ/mediator-android/total?style=for-the-badge&color=10B981)
+![Release](https://img.shields.io/github/v/release/lpconsole/mediator-android?style=for-the-badge&color=0EA5E9)
+![Downloads](https://img.shields.io/github/downloads/lpconsole/mediator-android/total?style=for-the-badge&color=10B981)
 
-[Download Latest APK](https://github.com/KULLANICI_ADINIZ/mediator-android/releases/latest) •
-[Live Web Platform](https://alanadiniz.com) •
-[Editorial Guidelines](https://alanadiniz.com/editorial) •
-[Support](https://alanadiniz.com/support)
+[Download Latest APK](https://github.com/lpconsole/mediator-android/releases/latest) •
+[Live Web Platform](https://mediator.com.tr) •
+[Editorial Guidelines](https://mediator.com.tr/editorial) •
+[Support](https://mediator.com.tr/support)
 
 </div>
 
@@ -40,7 +40,7 @@ This repository hosts official **Android APK releases** for users who want a nat
 
 ## Download & Installation (Android APK)
 
-1. Go to the **[Releases](https://github.com/KULLANICI_ADINIZ/mediator-android/releases/latest)** page.
+1. Go to the **[Releases](https://github.com/lpconsole/mediator-android/releases/latest)** page.
 2. Download the latest `MediaTor-vX.X.X.apk` file to your Android device.
 3. Open the downloaded file and allow installation from unknown sources if prompted.
 4. Launch **MediaTor** and sign in or create a free account.
@@ -49,7 +49,7 @@ This repository hosts official **Android APK releases** for users who want a nat
 
 ## Links & Legal
 
-- **Website:** https://alanadiniz.com
-- **Privacy Policy:** https://alanadiniz.com/privacy
-- **Terms of Service:** https://alanadiniz.com/terms
-- **Contact:** https://alanadiniz.com/contact
+- **Website:** https://mediator.com.tr
+- **Privacy Policy:** https://mediator.com.tr/privacy
+- **Terms of Service:** https://mediator.com.tr/terms
+- **Contact:** https://mediator.com.tr/contact
