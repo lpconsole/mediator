@@ -10,7 +10,7 @@
 ![Release](https://img.shields.io/github/v/release/lpconsole/mediator?style=for-the-badge&color=0EA5E9)
 ![Downloads](https://img.shields.io/github/downloads/lpconsole/mediator/total?style=for-the-badge&color=10B981)
 
-[Download Latest APK](https://github.com/lpconsole/mediator/releases/latest) •
+[Download Latest APK](https://github.com/lpconsole/mediator/releases/latest/download/app-release.apk) •
 [Live Web Platform](https://mediator.com.tr) •
 [Editorial Guidelines](https://mediator.com.tr/editorial) •
 [Support](https://mediator.com.tr/support)
